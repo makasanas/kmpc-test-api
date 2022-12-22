@@ -13,7 +13,7 @@
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.6.2",
     "mongoose-double": "0.0.1",
     "morgan": "~1.9.0"
